@@ -1,0 +1,17 @@
+body{
+  background-image: linear-gradient(hotpink,dodgerblue, rgba(45, 168, 45, 0.795));
+  background-attachment: fixed;
+}
+
+
+.right-content{
+  background-image: linear-gradient(to right, rgb(16, 194, 225), rgba(127, 16, 225, 0.648));
+  padding-top: 15px;
+  padding-left: 20px;
+  margin-top: 10px;
+  text-shadow: 2px 2px rgb(35, 97, 189);
+}
+
+.middle-adjust{
+  margin: 100px 300px;
+}
